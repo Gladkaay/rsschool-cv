@@ -2,3 +2,5 @@
 
 ## Contacts
 Telegram: @gladkaay
+## Eduation
+BSUIR
