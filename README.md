@@ -4,12 +4,13 @@
 
 # Contacts
 Telegram: @gladkaay
+
 E-mail: nastya04052001@gmail.com
 
 # About Me
 I am a Control Engineer. I work with Matlab and Simulink.
-*My strengths:
-  + Quick learner
+* My strengths:
+     + Quick learner
   + Intelligence
   + Diligence
   + Team playing
@@ -33,4 +34,5 @@ University: Belarusian State University of Informatics and Radioelectronics
 
 # English
 Russian - native speaker.
+
 English - A2 (B1 in process…)
